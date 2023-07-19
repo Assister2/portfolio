@@ -1,4 +1,4 @@
-<img src="https://github.com/kevinbruyne0125/portfolioOwn/blob/main/public/project-preview.png?raw=true"><img/>
+<img src="https://github.com/kevinbruyne0125/portfolioOwn/main/public/project-preview.png?raw=true"><img/>
 
 # Personal Portfolio
 <!-- <a href="https://catherineisonline.github.io/personal-portfolio/">Portfolio</a> -->
