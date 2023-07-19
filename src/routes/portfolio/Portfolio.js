@@ -4,7 +4,7 @@ import PortfolioDescription from "./PortfolioDescription";
 import ScrollButton from "../../components/ScrollButton";
 
 const Portfolio = () => {
-  document.title = "Portfolio | Catherine Mitagvaria";
+  document.title = "Portfolio | Stanislaw";
   return (
     <article className="portfolio-main">
       <PortfolioDescription />

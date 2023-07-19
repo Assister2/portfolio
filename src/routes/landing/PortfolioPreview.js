@@ -13,7 +13,7 @@ const PortfolioPreview = () => {
           I have spent a lot of time on different projects. I love doing
           everything from scratch. Here are some of my favorite ones which sum
           up my knowledge. I have done many small projects from different
-          courses and challenges to learn the basics. You can check them on my{" "}
+          courses and challenges to learn the basics. You can visit them on my{" "}
           <span>
             <a
               href="https://github.com/catherineisonline?tab=repositories"

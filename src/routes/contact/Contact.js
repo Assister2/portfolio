@@ -2,7 +2,7 @@ import SendEmail from "../../components/SendEmail";
 import { Footer } from "../../components";
 
 const Contact = () => {
-  document.title = "Contact | Catherine Mitagvaria";
+  document.title = "Contact | Stanislaw";
   return (
     <article className="contact-main">
       <h2 className="title-font pink-text h2-tag">Contact Me</h2>

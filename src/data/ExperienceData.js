@@ -6,14 +6,14 @@ const ExperienceData = [
     worktype: "Full-time",
     duration: "Jan 2021 - Oct 2021",
     location: "Tbilisi, Georgia",
-    responsibility: [
+    responsibility:  [
       `Guided a team of 70 Instagram growth specialists and over 5 team leaders.`,
       `Revised company marketing practices, switched strategies at least once a month, and applied updates to training programs.`,
       `Developed new growth strategies to improve results for over 6 thousand customers and arranged weekly meetings with the company Directors.`,
       `In 10 months improved retention rate by almost 15%.`,
       `Resolved all client complaints by collaborating with over 3 other departments such as sales, customer support, and the onboarding team.`,
       `Individual performance review and weekly meetings with the team.`,
-    ],
+     ],
   },
   {
     id: 2,

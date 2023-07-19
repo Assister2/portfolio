@@ -19,14 +19,14 @@ const Projects = () => {
                 <p key={index}>{stackName}</p>
               ))}
             </section>
-            <section className="project-links">
+            {/* <section className="project-links">
               <a href={project.src} target="_blank" rel="noreferrer">
                 <img src={ExternalLink} alt="External link icon"></img>
               </a>
               <a href={project.source} target="_blank" rel="noreferrer">
                 <img src={GithubRepo} alt="Github icon"></img>
               </a>
-            </section>
+            </section> */}
           </section>
         </section>
       ))}

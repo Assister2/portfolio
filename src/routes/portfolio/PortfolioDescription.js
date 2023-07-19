@@ -6,10 +6,10 @@ const PortfolioDescription = () => {
         I have spent a lot of time on different projects. I love doing
         everything from scratch. Here are some of my favorite ones which sum up
         my knowledge. I have done many small projects from different courses and
-        challenges to learn the basics. You can check them on my{" "}
+        challenges to learn the basics. You can visit them on my{" "}
         <span>
           <a
-            href="https://github.com/catherineisonline?tab=repositories"
+            href="https://github.com/kevinbruyne0125?tab=repositories"
             className="pink-text"
             target="_blank"
             rel="noreferrer"
